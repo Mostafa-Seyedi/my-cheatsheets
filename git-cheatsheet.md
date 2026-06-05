@@ -12,6 +12,7 @@
 - `git add <file>` — stage a file
 - `git add .` — stage all changes
 - `git commit -m "msg"` — commit with message
+- `git remote -v` — See your connected GitHub remote
 - `git commit --amend` — amend last commit
 
 ## Branching
