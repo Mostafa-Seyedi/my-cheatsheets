@@ -1,6 +1,6 @@
 # Git Cheat Sheet
 
-## Setup
+## Setup ⛷️
 - `git config --global user.name "Name"` — set username
 - `git config --global user.email "email"` — set email
 - `git config --list` — view all config
